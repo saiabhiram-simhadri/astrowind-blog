@@ -1,5 +1,5 @@
 site:
-  name: Connecting Dots
+  name: Abhiram
   site: 'https://saiabhiram.vercel.app'
   base: '/'
   trailingSlash: false
